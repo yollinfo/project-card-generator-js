@@ -47,11 +47,6 @@ Here is an example:
 ---
 ### **📚 Fundamentals Covered**
 #### This exercise covers the following fundamentals:
-1. **HTML Basics**
-    - Setting up an HTML file with a placeholder for dynamic content.
-2. **CSS**
-    - Styling the excuse display area for better visual appeal.
-3. **JavaScript Basics:**
 1.	HTML Basics 
 - Structuring the card display dynamically.
 2. CSS 
