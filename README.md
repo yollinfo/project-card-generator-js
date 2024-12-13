@@ -27,10 +27,7 @@ Your task is to create an algorithm that generates a random card every time the 
 
 Here is an example:
 
-<video width="600" controls autoplay>
-  <source src="./assets/card-generator.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./assets/card-gen-ex.gif" alt="excuse" width="800">
 ---
 
 ### Hints:
